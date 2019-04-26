@@ -1,3 +1,4 @@
+//https://medium.com/@alexishevia/using-cors-in-express-cac7e29b005b
 const http = require('http');
 const express = require('express');
 var cors = require('cors');
